@@ -14,6 +14,7 @@
 		987FF5741C28987900D8C397 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 987FF5721C28987900D8C397 /* LaunchScreen.storyboard */; };
 		987FF57F1C28987A00D8C397 /* MeetingBoardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987FF57E1C28987A00D8C397 /* MeetingBoardTests.swift */; };
 		987FF58A1C28987A00D8C397 /* MeetingBoardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987FF5891C28987A00D8C397 /* MeetingBoardUITests.swift */; };
+		987FF5981C289CED00D8C397 /* SellectMeeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 987FF5971C289CED00D8C397 /* SellectMeeting.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		987FF5851C28987A00D8C397 /* MeetingBoardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeetingBoardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		987FF5891C28987A00D8C397 /* MeetingBoardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingBoardUITests.swift; sourceTree = "<group>"; };
 		987FF58B1C28987A00D8C397 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		987FF5971C289CED00D8C397 /* SellectMeeting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SellectMeeting.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				987FF5691C28987900D8C397 /* AppDelegate.swift */,
+				987FF5971C289CED00D8C397 /* SellectMeeting.swift */,
 				987FF56B1C28987900D8C397 /* ViewController.swift */,
 				987FF56D1C28987900D8C397 /* Main.storyboard */,
 				987FF5701C28987900D8C397 /* Assets.xcassets */,
@@ -258,6 +261,7 @@
 			files = (
 				987FF56C1C28987900D8C397 /* ViewController.swift in Sources */,
 				987FF56A1C28987900D8C397 /* AppDelegate.swift in Sources */,
+				987FF5981C289CED00D8C397 /* SellectMeeting.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
